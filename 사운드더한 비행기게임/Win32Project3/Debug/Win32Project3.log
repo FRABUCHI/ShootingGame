@@ -1,0 +1,12 @@
+﻿  Win32Project3.cpp
+c:\users\www\documents\visual studio 2017\projects\사운드더한 비행기게임\win32project3\win32project3.cpp(413): warning C4244: '인수': 'int'에서 'VGfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\www\documents\visual studio 2017\projects\사운드더한 비행기게임\win32project3\win32project3.cpp(418): warning C4244: '인수': 'int'에서 'VGfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\www\documents\visual studio 2017\projects\사운드더한 비행기게임\win32project3\win32project3.cpp(426): warning C4244: '인수': 'int'에서 'VGfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\www\documents\visual studio 2017\projects\사운드더한 비행기게임\win32project3\win32project3.cpp(434): warning C4244: '인수': 'int'에서 'VGfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\www\documents\visual studio 2017\projects\사운드더한 비행기게임\win32project3\win32project3.cpp(450): warning C4244: '인수': 'int'에서 'VGfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\www\documents\visual studio 2017\projects\사운드더한 비행기게임\win32project3\win32project3.cpp(458): warning C4244: '인수': 'int'에서 'VGfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\www\documents\visual studio 2017\projects\사운드더한 비행기게임\win32project3\win32project3.cpp(466): warning C4244: '인수': 'int'에서 'VGfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\www\documents\visual studio 2017\projects\사운드더한 비행기게임\win32project3\win32project3.cpp(474): warning C4244: '인수': 'int'에서 'VGfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\www\documents\visual studio 2017\projects\사운드더한 비행기게임\win32project3\win32project3.cpp(530): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Win32Project3.vcxproj -> C:\Users\www\Documents\Visual Studio 2017\Projects\사운드더한 비행기게임\Debug\Win32Project3.exe
+  Win32Project3.vcxproj -> C:\Users\www\Documents\Visual Studio 2017\Projects\사운드더한 비행기게임\Debug\Win32Project3.pdb (Partial PDB)
